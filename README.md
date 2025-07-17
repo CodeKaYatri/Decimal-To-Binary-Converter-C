@@ -35,5 +35,8 @@ Binary = 1010
 
 ### 🖥 Program Output  
 ![Output Screenshot](assets/output_screenshot.png)
+<img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/55bbb255-530d-4fcf-a614-b460a8815ad9" />
+<img width="1920" height="1080" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/762f778b-6b43-4f73-91ab-dfeab28dd5c4" />
+
 
 
