@@ -23,18 +23,14 @@ Turbo C compatible (uses `clrscr()` and `getch()`)
 
 ##  Example
 Input:
-Enter the decimal number: 10
+Enter the decimal number: 678
 
 Output:
-Binary = 1010
+Binary = 1010100110
 
 ##  Screenshots
 
 ###  Code in Turbo C3 IDE  
-![Code Screenshot](assets/code_screenshot.png)
-
-### 🖥 Program Output  
-![Output Screenshot](assets/output_screenshot.png)
 <img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/55bbb255-530d-4fcf-a614-b460a8815ad9" />
 <img width="1920" height="1080" alt="Screenshot (307)" src="https://github.com/user-attachments/assets/762f778b-6b43-4f73-91ab-dfeab28dd5c4" />
 
